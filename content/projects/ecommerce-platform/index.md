@@ -17,10 +17,13 @@ tech_stack:
   - Redis
   - Docker
 links:
-  - type: github
+  - icon: github
+    icon_pack: brands
+    name: Code
     url: https://github.com/alexjohnson/ecommerce-platform
-    label: Code
-  - type: live
+  - icon: arrow-up-right
+    icon_pack: hero
+    name: Demo
     url: https://shop-demo.example.com
     label: Demo
 featured: true
